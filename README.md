@@ -1,4 +1,5 @@
 ### Hi there 👋
+## My name is Helen.  
 
 I'm a second year Computer Science major at the University of California, Irvine.  
 Connect with me on LinkedIn at https://www.linkedin.com/in/cs-helen-pham/
