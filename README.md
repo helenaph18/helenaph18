@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
-I'm a second year Computer Science major at the University of California, Irvine.  
-Connect with me on LinkedIn at https://www.linkedin.com/in/cs-helen-pham/
+I'm a second year **Computer Science** major at the University of California, Irvine.  
+Connect with me on LinkedIn at [Link](https://www.linkedin.com/in/cs-helen-pham/)
 <!--
 **helenaph18/helenaph18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
