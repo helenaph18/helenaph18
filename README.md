@@ -1,6 +1,6 @@
 ### Hi there! My name is Helen! 👋 
 
-I'm a second year **Computer Science** major at the University of California, Irvine.  
+I'm a third year **Computer Science** major at the University of California, Irvine.  
 
 I am quite new to tech and coding so I am very eager to learn as much as I can about the tech industry and to expand my skill sets. Aside from school work, I enjoy reading, listening to music, and watching movies with my family.
 Connect with me on LinkedIn at [Link](https://www.linkedin.com/in/cs-helen-pham/) or contact me at helenphamwork@gmail.com to hear more about me
